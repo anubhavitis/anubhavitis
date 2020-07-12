@@ -1,9 +1,5 @@
-# Anubhav Singhal—@anubhavitis
-Hi, I'm Anubhav<br>
-[![linkedin badge](https://img.shields.io/badge/anubhavitis-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/anubhavitis)
-[![twitter badge](https://img.shields.io/badge/@anubhavitis-30302f?style=flat&logo=twitter)](https://twitter.com/anubhavitis)
-[![medium badge](https://img.shields.io/badge/anubhavitis-30302f?style=flat&logo=medium)](https://medium.com/@anubhavitis)</br>
-I am web developer through golang and passionately follow competitive programming. Aspired to be DevOps Engineer, hope that happens soon!
+### Hi there 👋
+## Anubhav Singhal [![](https://img.shields.io/twitter/follow/anubhavitis?style=social)](https://twitter.com/intent/follow?screen_name=anubhavitis) [![](https://img.shields.io/badge/linkedin----blue)](https://www.linkedin.com/in/anubhavitis/) [![medium badge](https://img.shields.io/badge/anubhavitis-30302f?style=flat&logo=medium)](https://medium.com/@anubhavitis)
 
 ## My values
 🌟 Value experience<br>
