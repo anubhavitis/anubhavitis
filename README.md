@@ -1,5 +1,6 @@
 ### Hi there 👋
-## Anubhav Singhal <br>[![](https://img.shields.io/twitter/follow/anubhavitis?style=social)](https://twitter.com/intent/follow?screen_name=anubhavitis) <br>[![linkedin badge](https://img.shields.io/badge/anubhavitis-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/anubhavitis) <br>[![medium badge](https://img.shields.io/badge/anubhavitis-30302f?style=flat&logo=medium)](https://medium.com/@anubhavitis)
+![Cover Picture](https://github.com/anubhavitis/anubhavitis/blob/master/Rohit sir.jpeg?raw=true)
+## Anubhav Singhal <br>[![](https://img.shields.io/twitter/follow/anubhavitis?style=social)](https://twitter.com/intent/follow?screen_name=anubhavitis) [![linkedin badge](https://img.shields.io/badge/anubhavitis-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/anubhavitis) [![medium badge](https://img.shields.io/badge/anubhavitis-30302f?style=flat&logo=medium)](https://medium.com/@anubhavitis)
 
 ## About ME
 * Competitive Programmer in C++
