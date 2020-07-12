@@ -4,7 +4,7 @@
 ## About ME
 * Competitive Programmer in C++
 * Backend Web Developer in Golang
-* Expert @CodeForces, 4* @CodeChef
+* Expert @CodeForces, 4🌟 @CodeChef
 * Aspired DevOps Engineer
 * Business Enthusiast
 * Experienced in Product Development, sales and management.
