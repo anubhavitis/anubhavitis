@@ -9,22 +9,6 @@
 * Business Enthusiast
 * Experienced in Product Development, sales and management.
 
-
-## My values
-🌟 Value experience<br>
-💖 Safety and trust<br>
-🍏 Always ready to learn<br>
-🙌 Love to meet new people and know them.<br>
-💬 Ask me about anything, I'm happy to help! 
-
 ## How I work
 My motivations are to stabilize and provide clarity along with curiosity. I like to work with people who are open minded and have learning attitude.
 
-## Checkout my blog
-- Medium: https://medium.com/@anubhavitis
-
-## Get in touch
-- Twitter: https://twitter.com/anubhavitis
-- LinkedIn: https://Linkedin.com/in/anubhavitis
-
-## Have a nice day 🌟🌟
