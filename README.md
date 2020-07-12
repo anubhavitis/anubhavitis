@@ -1,4 +1,4 @@
-![Cover Picture](covPict1.jpeg?raw=true "Title")
+![](covPict1.jpeg?raw=true "Title")
 ## Anubhav Singhal <br>[![](https://img.shields.io/twitter/follow/anubhavitis?style=social)](https://twitter.com/intent/follow?screen_name=anubhavitis) [![linkedin badge](https://img.shields.io/badge/anubhavitis-30302f?style=flat&logo=linkedin)](https://www.linkedin.com/in/anubhavitis) [![medium badge](https://img.shields.io/badge/anubhavitis-30302f?style=flat&logo=medium)](https://medium.com/@anubhavitis)
 
 ## About ME
