@@ -3,7 +3,7 @@
 ## About ME
 * Competitive Programmer in C++
 * Backend Web Developer in Golang
-* Expert @CodeForces, 4🌟 @CodeChef
+* Codeforces rating 1674 : EXPERT
 * Aspired DevOps Engineer
 * Business Enthusiast
 * Experienced in Product Development, sales and management.
