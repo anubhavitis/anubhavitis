@@ -26,6 +26,7 @@
 </div>
 
 ## How I work
+
 My motivations are to stabilize and provide clarity along with curiosity. I like to work with people who are open minded and have learning attitude.
 
 <h1> Let's connect </h1>
@@ -40,4 +41,3 @@ My motivations are to stabilize and provide clarity along with curiosity. I like
     <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
   </a>  
 </div>
-
