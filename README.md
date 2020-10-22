@@ -1,15 +1,29 @@
 <div align="center">
   <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
-  <h1> I'm Anubhav Singhal </h1>  
+  <h1> I'm Anubhav Singhal </h1> 
+  <a href="https://codeforces.com/profile/zeddie" target="_blank"> 
+      <img src=https://img.shields.io/badge/zeddie-CodeForces-9cf alt=Codeforces style="magin-bottom: 5px;" />
+  </a>
+  <a href="https://www.codechef.com/users/zeddie" target="_blank">
+      <img src=https://img.shields.io/badge/zeddie-CodeChef-orange alt=CodeChef style="magin-bottom: 5px;" />
+  </a>
+  <a href="https://leetcode.com/zeddie/" target="_blank">
+      <img src=https://img.shields.io/badge/zeddie-Leetcode-blue alt=Leetcode style="magin-bottom: 5px;" />
+  </a>
+    
 </div>
-
-## About ME
-* Competitive Programmer in C++
-* Backend Web Developer in Golang
-* Codeforces rating 1674 : EXPERT
-* Aspired DevOps Engineer
-* Business Enthusiast
-* Experienced in Product Development, sales and management.
+<div>
+  <h1> About ME </h1>
+  <ul>
+    <li> Competitive Programmer with C++. </li>
+    <li> CodeForces: <strong> 1674 [EXPERT] </strong>, CodeChef: <strong> 1894 [4⭐]</strong> </li>
+    <li> Backend Web Developer in Golang. </li>
+    <li> Aspired DevOps Engineer. </li>
+    <li> Business Enthusiast. </li>
+    <li> Experienced in Product Development, sales and management. </li>
+    <li> <strong> <a href="https://anubhavitis.github.io/Resume/" target="_blank"> RESUME </a></strong> </li>
+  </ul>
+</div>
 
 ## How I work
 My motivations are to stabilize and provide clarity along with curiosity. I like to work with people who are open minded and have learning attitude.
