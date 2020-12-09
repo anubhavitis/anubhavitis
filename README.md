@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/42115530/92640221-9728ca00-f2fa-11ea-8994-c72b26e937de.gif" align="center"/>
+  <img src="https://giphy.com/gifs/L1R1tvI9svkIWwpVYr/html5" align="center"/>
   <h1> I'm Anubhav Singhal </h1> 
   <a href="https://codeforces.com/profile/zeddie" target="_blank"> 
       <img src=https://img.shields.io/badge/zeddie-CodeForces-9cf alt=Codeforces style="magin-bottom: 5px;" />
