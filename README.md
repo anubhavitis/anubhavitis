@@ -16,7 +16,7 @@
   <h1> About ME </h1>
   <ul>
     <li> Competitive Programmer with C++. </li>
-    <li> CodeForces: <strong> 1674 [EXPERT] </strong>, CodeChef: <strong> 1894 [4⭐]</strong> </li>
+    <li> CodeForces: <strong> 1674 [EXPERT] </strong>, CodeChef: <strong> 2004 [5⭐]</strong> </li>
     <li> Backend Web Developer in Golang. </li>
     <li> Aspired DevOps Engineer. </li>
     <li> Business Enthusiast. </li>
