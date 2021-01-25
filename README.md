@@ -22,20 +22,8 @@
  </tr>
 </table>
 
-## Skills
-
-
 <h1> Let's connect </h1>
 <div>
-  <a href="https://codeforces.com/profile/zeddie" target="_blank"> 
-      <img src=https://img.shields.io/badge/zeddie-CodeForces-9cf alt=Codeforces style="magin-bottom: 5px;" />
-  </a>
-  <a href="https://www.codechef.com/users/zeddie" target="_blank">
-      <img src=https://img.shields.io/badge/zeddie-CodeChef-orange alt=CodeChef style="magin-bottom: 5px;" />
-  </a>
-  <a href="https://leetcode.com/zeddie/" target="_blank">
-      <img src=https://img.shields.io/badge/zeddie-Leetcode-blue alt=Leetcode style="magin-bottom: 5px;" />
-  </a> 
   <a href="https://twitter.com/anubhavitis" target="_blank">
     <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
   </a>
@@ -44,5 +32,8 @@
   </a>
   <a href="https://medium.com/@anubhavitis" target="_blank">
     <img src=https://img.shields.io/badge/medium-%23292929.svg?&style=for-the-badge&logo=medium&logoColor=white alt=medium style="margin-bottom: 5px;" />
-  </a>  
+  </a>
+  <a href="https://dev.to/anubhavitis" target="_blank">
+    <img src=https://img.shields.io/badge/Dev.To-%23292929.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=medium style="margin-bottom: 5px;" />
+  </a>
 </div>
