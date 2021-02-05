@@ -1,7 +1,7 @@
 <div align="center">
 <!--   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="center"/> -->
   <h1> HELLO, WORLD!<br>I'm Anubhav Singhal </h1> 
-  <img src=https://img.shields.io/twitter/follow/anubhavitis?style=social />
+   <a href="https://twitter.com/anubhavitis"> <img src=https://img.shields.io/twitter/follow/anubhavitis?style=social /> </a>
 </div>
 <h1> About me </h1>
 <table border="0" >
@@ -17,7 +17,7 @@
           <li> <strong> <a href="https://anubhavitis.github.io/Resume/" target="_blank"> RESUME </a></strong> </li>
         </ul></b>
     </td>
-    <td>    <img src="https://github-readme-stats.vercel.app/api?username=anubhavitis&show_icons=true&theme=dark" />
+    <td>  <img src="https://github-readme-stats.vercel.app/api?username=anubhavitis&show_icons=true&theme=dark" />
     </td>
  </tr>
 </table>
