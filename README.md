@@ -1,7 +1,7 @@
 <div align="center">
 <!--   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="center"/> -->
   <h1> HELLO, WORLD!<br>I'm Anubhav Singhal </h1> 
-   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=flat-square" />
+   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=plastic" />
    <a href="https://twitter.com/anubhavitis"> <img src=https://img.shields.io/twitter/follow/anubhavitis?style=social /> </a>
 </div>
 <h1> About me </h1>
