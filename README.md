@@ -1,70 +1,50 @@
 <div align="center">
-<!--   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" align="center"/> -->
-  <h1> HELLO, WORLD!<br>I'm Anubhav Singhal </h1> 
-   <img src="https://komarev.com/ghpvc/?username=your-github-username&style=plastic" />
-   <a href="https://twitter.com/anubhavitis"> <img src=https://img.shields.io/twitter/follow/anubhavitis?style=social /> </a>
+  <img src="https://user-images.githubusercontent.com/26124625/119921844-5954fa00-bf8c-11eb-8400-de37098e8973.png" align="center"/>
 </div>
-<h1> About me </h1>
-<table border="0" table cellspacing="0" cellpadding="0" >
+
+# 👨‍🚀 About me
+
+  - 21yo, Decentralized @Noida
+  - Competitive Programmer: <strong> 1674 [EXPERT] </strong> at <a href=https://codeforces.com/profile/zeddie> codeforces/zeddie</a>, <strong> 2004 [5⭐]</strong>  at <a href=https://codechef.com/user/zeddie> codechef/zeddie</a>
+  - Backend Developer, experienced in GO web, GO-gin, Django, Django Rest Framework.
+  - Talk to me about Backend dev, blockchain, startup, and finance.
+  - I regularly write at ![Dev.to](https://dev.to/anubhavitis), and ![Medium](http://medium.com/@anubhavitis).
+  - Here is my <strong> <a href="https://anubhavitis.github.io/Resume/" target="_blank"> resume </a></strong> for your your reference.
+
+# 💪 Experienced with:
+
+<table border="0" table cellspacing="0" cellpadding="0">
  <tr>
-    <td>
-        <ul>
-          <li> Competitive Programmer with C++. </li>
-          <li> CodeForces: <strong> 1674 [EXPERT] </strong>, CodeChef: <strong> 2004 [5⭐]</strong> </li>
-          <li> Backend Web Developer in Golang. </li>
-          <li> Aspired DevOps Engineer. </li>
-          <li> Business Enthusiast. </li>
-          <li> Experienced in Product Development, sales and management. </li>
-          <li> <strong> <a href="https://anubhavitis.github.io/Resume/" target="_blank"> RESUME </a></strong> </li>
-        </ul></b>
+    <td width="50%">
+      <p align="left">
+   <img src=https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white /> <img src=https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white /> <img src=https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white / > <img src=https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white /> <img src=https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white /> <img src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black /> <img src=https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white /> <img src=https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white /> <img src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white / > <img src=https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white /> <img src=https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white /> <img src=https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white /> <img src=https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white /> <img src=https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white /> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/> <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+</p>
     </td>
-    <td>  <img src="https://github-readme-stats.vercel.app/api?username=anubhavitis&show_icons=true&theme=dark" />
+    <td width=50%>  
+      <img src="https://github-readme-stats.vercel.app/api?username=anubhavitis&show_icons=true&theme=dark" />
     </td>
  </tr>
 </table>
 
-<h1> Experienced with: </h1>
-<table border="0" table cellspacing="0" cellpadding="0">
-  <tr>
-      <td>
-  <img src=https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white />
-  <img src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white />
-  <img src=https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white />
-  <img src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black />
-<!--   <img src=https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white /> -->
-  <hr>
-  <img src=https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white />
-  <img src=https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white />
-  <img src=https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white />
-  <img src=https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white />
-  <hr>
-  <img src=https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white />
-  <img src=https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white />
-  <img src=https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white />
-  <img src=https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white />
-    </td>
-    <td>
-  <img src=https://github-readme-stats.vercel.app/api/top-langs/?username=anubhavitis&theme=blue-green />
-    </td>
-   </tr>
-  </table>
+# 📝 Latest Blog Posts
 
-<h1> 😂 Here is a random joke that'll make you laugh! </h1>
+- ![5 most underrated skills of a top developer.](https://dev.to/anubhavitis/5-most-underrated-skills-of-a-top-developer-bin)
+- ![Cloud Computing: Begineer's Guide.](https://dev.to/anubhavitis/cloud-computing-beginners-guide-lj7)
+- ![What exactly is API?](https://dev.to/anubhavitis/apis-for-beginners-34ie)
+- ![HTTP Fundamentals](https://dev.to/anubhavitis/http-fundamentals-5831)
 
-<img src=https://readme-jokes.vercel.app/api />
-
-<h1> Let's connect </h1>
+# 🌎 Let's connect
 <div>
   <a href="https://twitter.com/anubhavitis" target="_blank">
     <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter;" />
+  </a>
+  <a href="https://dev.to/anubhavitis" target="_blank">
+    <img src=https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white alt=medium;" />
   </a>
   <a href="https://linkedin.com/in/anubhavitis" target="_blank">
     <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin;" />
   </a>
   <a href="https://medium.com/@anubhavitis" target="_blank">
     <img src=https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white alt=medium;" />
-  </a>
-  <a href="https://dev.to/anubhavitis" target="_blank">
-    <img src=https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=dev.to&logoColor=white alt=medium;" />
   </a>
 </div>
