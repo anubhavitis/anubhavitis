@@ -5,10 +5,10 @@
 # 👨‍🚀 About me
 
   - 21yo, Decentralized @Noida
-  - Competitive Programmer: <strong> 1674 [EXPERT] </strong> at <a href=https://codeforces.com/profile/zeddie> codeforces/zeddie</a>, <strong> 2004 [5⭐]</strong>  at <a href=https://codechef.com/user/zeddie> codechef/zeddie</a>
+  - Competitive Programmer: <strong> 1674 [EXPERT] </strong> at <a href=https://codeforces.com/profile/zeddie  target="_blank"> codeforces/zeddie</a>, <strong> 2004 [5⭐]</strong>  at <a href=https://codechef.com/user/zeddie  target="_blank"> codechef/zeddie</a>
   - Backend Developer, experienced in GO web, GO-gin, Django, Django Rest Framework.
   - Talk to me about Backend dev, blockchain, startup, and finance.
-  - I regularly write at ![Dev.to](https://dev.to/anubhavitis), and ![Medium](http://medium.com/@anubhavitis).
+  - I regularly write at <a href="https://dev.to/anubhavitis" target="_blank"> Dev.To </a>, and <a href="http://medium.com/@anubhavitis" target="_blank"> Medium</a>.
   - Here is my <strong> <a href="https://anubhavitis.github.io/Resume/" target="_blank"> resume </a></strong> for your your reference.
 
 # 💪 Experienced with:
@@ -28,10 +28,10 @@
 
 # 📝 Latest Blog Posts
 
-- ![5 most underrated skills of a top developer.](https://dev.to/anubhavitis/5-most-underrated-skills-of-a-top-developer-bin)
-- ![Cloud Computing: Begineer's Guide.](https://dev.to/anubhavitis/cloud-computing-beginners-guide-lj7)
-- ![What exactly is API?](https://dev.to/anubhavitis/apis-for-beginners-34ie)
-- ![HTTP Fundamentals](https://dev.to/anubhavitis/http-fundamentals-5831)
+- [5 most underrated skills of a top developer.](https://dev.to/anubhavitis/5-most-underrated-skills-of-a-top-developer-bin)
+- [Cloud Computing: Begineer's Guide.](https://dev.to/anubhavitis/cloud-computing-beginners-guide-lj7)
+- [What exactly is API?](https://dev.to/anubhavitis/apis-for-beginners-34ie)
+- [HTTP Fundamentals](https://dev.to/anubhavitis/http-fundamentals-5831)
 
 # 🌎 Let's connect
 <div>
