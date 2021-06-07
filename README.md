@@ -12,19 +12,19 @@
   - Here is my <strong> <a href="https://anubhavitis.github.io/Resume/" target="_blank"> resume </a></strong> for your your reference.
 
 # 💪 Experienced with:
-
-<table border="0" table cellspacing="0" cellpadding="0">
- <tr>
-    <td width="50%">
-      <p align="left">
-   <img src=https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white /> <img src=https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white /> <img src=https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white / > <img src=https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white /> <img src=https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white /> <img src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black /> <img src=https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white /> <img src=https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white /> <img src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white / > <img src=https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white /> <img src=https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white /> <img src=https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white /> <img src=https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white /> <img src=https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white /> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/> <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
+<div>
+  
+  <div>
+    <p align="left">
+     <img src=https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white /> <img src=https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white /> <img src=https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white / > <img src=https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white /> <img src=https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white /> <img src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black /> <img src=https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white /> <img src=https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white /> <img src=https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white / > <img src=https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white /> <img src=https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white /> <img src=https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white /> <img src=https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white /> <img src=https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white /> <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white"/> <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white"/> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>
 </p>
-    </td>
-    <td width=50%>  
-      <img src="https://github-readme-stats.vercel.app/api?username=anubhavitis&show_icons=true&theme=dark" />
-    </td>
- </tr>
-</table>
+  </div>
+  
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=anubhavitis&show_icons=true&theme=dark" />
+  </div>
+ 
+  </div>
 
 # 📝 Latest Blog Posts
 
