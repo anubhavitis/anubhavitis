@@ -5,7 +5,7 @@
 # 👨‍🚀 About me
 
   - 21yo, Decentralized @Noida
-  - Software Developer Intern at [Attentive.ai](https://attentive.ai)
+  - Software Developer Intern at [BrightMoney](https://brightmoney.co)
   - Competitive Programmer: <strong> 1674 [EXPERT] </strong> at <a href=https://codeforces.com/profile/zeddie  target="_blank"> codeforces/zeddie</a>, <strong> 2004 [5⭐]</strong>  at <a href=https://codechef.com/user/zeddie  target="_blank"> codechef/zeddie</a>
   - Backend Developer, experienced in Django, DRF, Django-Celery, GO web, GO-gin.
   - Talk to me about Backend dev, blockchain, startup, and finance.
