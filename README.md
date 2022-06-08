@@ -12,23 +12,8 @@
   - I regularly write at <a href="https://dev.to/anubhavitis" target="_blank"> Dev.To </a>, and <a href="http://medium.com/@anubhavitis" target="_blank"> Medium</a>.
   - Here is my <strong> <a href="https://anubhavitis.github.io/Resume/" target="_blank"> resume </a></strong> for your your reference.
 
-# 💪 Experienced with:
-<div>
-    <p align="left">
-      <img src=https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white /> <img src=https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white / > <img src=https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white /> <img src=https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white /> <img src=https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black /> <img src=https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white /> <img src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/> <br> <img src=https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white /> <img src=https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white /> <img src=https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white /> <img src=https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white />
-</p>
- 
-  </div>
 
-# 📝 Latest Blog Posts
-
-- [Getting started with Asynchronous programming](https://dev.to/anubhavitis/getting-started-with-asynchronous-programming-4jd2)
-- [5 most underrated skills of a top developer.](https://dev.to/anubhavitis/5-most-underrated-skills-of-a-top-developer-bin)
-- [Cloud Computing: Begineer's Guide.](https://dev.to/anubhavitis/cloud-computing-beginners-guide-lj7)
-- [What exactly is API?](https://dev.to/anubhavitis/apis-for-beginners-34ie)
-- [HTTP Fundamentals](https://dev.to/anubhavitis/http-fundamentals-5831)
-
-# 🌎 Let's connect
+# 🌎 Contact me
 <div>
   <a href="https://twitter.com/anubhavitis" target="_blank">
     <img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter;" />
