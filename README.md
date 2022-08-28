@@ -5,7 +5,8 @@
 # 👨‍🚀 About me
 
   - 22yo, Decentralized @Noida
-  - Software Developer Intern at [CoinSwitch Kuber](https://coinswitch.co/). Ex-[BrightMoney](https://brightmoney.co), Ex-[Attentive](https://attentive.ai)
+  - Lazy. Automating computers to do most of my stuff.
+  - Software Developer-1 @[CoinSwitch Kuber](https://coinswitch.co/). Ex-[BrightMoney](https://brightmoney.co), Ex-[Attentive](https://attentive.ai)
   - Competitive Programmer: <strong> 1674 [EXPERT] </strong> at <a href=https://codeforces.com/profile/zeddie  target="_blank"> codeforces/zeddie</a>, <strong> 2004 [5⭐]</strong>  at <a href=https://codechef.com/user/zeddie  target="_blank"> codechef/zeddie</a>
   - Backend Developer, experienced in Django, DRF, Django-Celery, GO web, GO-gin.
   - Talk to me about Backend dev, blockchain, startup, and finance.
