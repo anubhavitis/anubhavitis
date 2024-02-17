@@ -4,14 +4,14 @@
 
 # 👨‍🚀 About me
 
-  - 22yo, Decentralized @Noida
+  - 22yo, Decentralized @Bengaluru
   - Lazy. Automating computers to do most of my stuff.
-  - Software Developer-1 @[CoinSwitch Kuber](https://coinswitch.co/). Ex-[BrightMoney](https://brightmoney.co), Ex-[Attentive](https://attentive.ai)
-  - Competitive Programmer: <strong> 1674 [EXPERT] </strong> at <a href=https://codeforces.com/profile/zeddie  target="_blank"> codeforces/zeddie</a>, <strong> 2004 [5⭐]</strong>  at <a href=https://codechef.com/user/zeddie  target="_blank"> codechef/zeddie</a>
-  - Backend Developer, experienced in Django, DRF, Django-Celery, GO web, GO-gin.
+  - Computer engineer @[CoinSwitch Kuber](https://coinswitch.co/). Ex-[BrightMoney](https://brightmoney.co), Ex-[Attentive](https://attentive.ai)
+  - Backend Developer, experienced in Golang, Rust, and Python-based frameworks.
   - Talk to me about Backend dev, blockchain, startup, and finance.
   - I regularly write at <a href="https://dev.to/anubhavitis" target="_blank"> Dev.To </a>, and <a href="http://medium.com/@anubhavitis" target="_blank"> Medium</a>.
   - Here is my <strong> <a href="https://anubhavitis.github.io/Resume/" target="_blank"> resume </a></strong> for your your reference.
+  - Competitive Programming: <strong> 1674 [EXPERT] </strong> at <a href=https://codeforces.com/profile/zeddie  target="_blank"> codeforces/zeddie</a>, <strong> 2004 [5⭐]</strong>  at <a href=https://codechef.com/user/zeddie  target="_blank"> codechef/zeddie</a>
 
 
 # 🌎 Contact me
