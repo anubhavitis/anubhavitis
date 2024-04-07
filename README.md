@@ -2,16 +2,12 @@
   <img src="https://user-images.githubusercontent.com/26124625/119921844-5954fa00-bf8c-11eb-8400-de37098e8973.png" align="center"/>
 </div>
 
-# 👨‍🚀 About me
-
-  - 22yo, Decentralized @Bengaluru
-  - Lazy. Automating computers to do most of my stuff.
-  - Computer engineer @[CoinSwitch Kuber](https://coinswitch.co/). Ex-[BrightMoney](https://brightmoney.co), Ex-[Attentive](https://attentive.ai)
-  - Backend Developer, experienced in Golang, Rust, and Python-based frameworks.
+# 👨‍🚀 [anubhav.wtf](https://anubhav.wtf)
+  - I am backend + blockchain engineer. However, I love to contribute to almost any tech project that fascinates me.
+  - Decentralized @Bengaluru, India
+  - Previously Computer engineer @[CoinSwitch Kuber](https://coinswitch.co/), [BrightMoney](https://brightmoney.co), [Attentive](https://attentive.ai)
+  - Good with Rust, Golang and python.
   - Talk to me about Backend dev, blockchain, startup, and finance.
-  - I regularly write at <a href="https://dev.to/anubhavitis" target="_blank"> Dev.To </a>, and <a href="http://medium.com/@anubhavitis" target="_blank"> Medium</a>.
-  - Here is my <strong> <a href="https://anubhavitis.github.io/Resume/" target="_blank"> resume </a></strong> for your your reference.
-  - Competitive Programming: <strong> 1674 [EXPERT] </strong> at <a href=https://codeforces.com/profile/zeddie  target="_blank"> codeforces/zeddie</a>, <strong> 2004 [5⭐]</strong>  at <a href=https://codechef.com/user/zeddie  target="_blank"> codechef/zeddie</a>
 
 
 # 🌎 Contact me
