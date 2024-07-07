@@ -1,6 +1,3 @@
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/26124625/119921844-5954fa00-bf8c-11eb-8400-de37098e8973.png" align="center"/>
-</div>
 
 # 👨‍🚀 Welcome to Anubhav's Tech Odyssey! 🚀
 
